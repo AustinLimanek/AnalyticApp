@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "cognitoConfig": {
+    "identityPoolName": "analyticsapp_identitypool_3abddfa9",
+    "allowUnauthenticatedIdentities": true,
+    "authSelections": "identityPoolOnly",
+    "resourceName": "analyticsapp",
+    "sharedId": "3abddfa9",
+    "serviceName": "Cognito",
+    "useDefault": "manual"
+  }
+}
